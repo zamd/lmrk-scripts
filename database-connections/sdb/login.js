@@ -1,5 +1,5 @@
 function login (email, password, callback) {
-
+//auto-push
   var data = {
     username: email,
     password: password,
